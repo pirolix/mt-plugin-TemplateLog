@@ -1,5 +1,5 @@
 @ECHO OFF
-ECHO * $Id: .lint.bat 347 2013-07-21 08:37:06Z pirolix $
+ECHO * $Id$
 
 @SET MT_HOME="X:\Project\MovableType\src\5.12"
 echo ^* Use MT in %MT_HOME%

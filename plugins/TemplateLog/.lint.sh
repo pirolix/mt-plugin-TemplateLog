@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "* \$Id: .lint.sh 347 2013-07-21 08:37:06Z pirolix $"
+echo "* \$Id$"
 
 PWD=`pwd`
 MT_HOME=/var/www/vhosts/test/httpdocs/mt/52

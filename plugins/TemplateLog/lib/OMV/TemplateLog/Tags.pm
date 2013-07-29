@@ -1,5 +1,5 @@
 package OMV::TemplateLog::Tags;
-# $Id: Tags.pm 345 2013-07-21 07:12:00Z pirolix $
+# $Id$
 
 use strict;
 use warnings;

@@ -1,5 +1,5 @@
 package OMV::TemplateLog::L10N::ja;
-# $Id: ja.pm 346 2013-07-21 07:59:10Z pirolix $
+# $Id$
 
 use strict;
 use base 'OMV::TemplateLog::L10N';
